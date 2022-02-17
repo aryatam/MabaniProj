@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ArYa/Desktop/client/cJSON.h
+stddef.h
+-
+
+C:/Users/ArYa/Desktop/client/main.c
+stdio.h
+-
+winsock2.h
+-
+string.h
+-
+conio.h
+-
+stdlib.h
+-
+cJSON.h
+C:/Users/ArYa/Desktop/client/cJSON.h
+
